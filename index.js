@@ -6,9 +6,6 @@ function myAnimal() {
 
 function yourAnimal() {
   var newAnimal= 'cat'
-  // How can we make sure that this function
-  // and the above function both pass?
-  // P.S.: You can't just hard-code 'cat' below
   return newAnimal
 }
 
@@ -19,7 +16,6 @@ function add2(n) {
   else{
     return n+=2
   }
-
 }
 
 
